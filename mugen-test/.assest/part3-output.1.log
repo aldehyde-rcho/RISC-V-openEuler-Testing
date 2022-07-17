@@ -1,0 +1,131 @@
+aldehyde@ubuntu:~/Documents/mugen/mugen$ sudo bash mugen.sh -f os-basic-part3 > ./part3-output.1.log
+[sudo] aldehyde 的密码：                                                       
+Mon Jul 18 05:08:32 2022 - INFO  - start to run testcase:oe_test_groupdel.                                                                                    
+Mon Jul 18 05:08:33 2022 - ERROR - The case exit by code 1.
+Mon Jul 18 05:08:33 2022 - INFO  - End to run testcase:oe_test_groupdel.                                                                                      
+Mon Jul 18 05:08:33 2022 - INFO  - start to run testcase:oe_test_chrony_chronyc_hardwaretime.                                                                 
+Mon Jul 18 05:08:33 2022 - ERROR - The case exit by code 3.
+Mon Jul 18 05:08:33 2022 - INFO  - End to run testcase:oe_test_chrony_chronyc_hardwaretime.                                                                   
+Mon Jul 18 05:08:34 2022 - INFO  - start to run testcase:oe_test_IOaccess_100Mfile.
+Mon Jul 18 05:09:03 2022 - INFO  - The case exit by code 0.
+Mon Jul 18 05:09:03 2022 - INFO  - End to run testcase:oe_test_IOaccess_100Mfile.
+Mon Jul 18 05:09:03 2022 - INFO  - start to run testcase:oe_test_basic_modify_user.                                                                           
+Mon Jul 18 05:09:03 2022 - ERROR - The case exit by code 1.
+Mon Jul 18 05:09:03 2022 - INFO  - End to run testcase:oe_test_basic_modify_user.                                                                             
+Mon Jul 18 05:09:03 2022 - INFO  - start to run testcase:oe_test_cmd_id.                                                                                      
+Mon Jul 18 05:09:04 2022 - ERROR - The case exit by code 2.
+Mon Jul 18 05:09:03 2022 - INFO  - start to run testcase:oe_test_cmd_id.                                                                              [81/427]
+Mon Jul 18 05:09:04 2022 - ERROR - The case exit by code 2.                   
+Mon Jul 18 05:09:04 2022 - INFO  - End to run testcase:oe_test_cmd_id.                                                                                        
+Mon Jul 18 05:09:04 2022 - INFO  - start to run testcase:oe_test_basic_modify_group.                                                                          
+Mon Jul 18 05:09:05 2022 - ERROR - The case exit by code 1.                                                                                                   
+Mon Jul 18 05:09:05 2022 - INFO  - End to run testcase:oe_test_basic_modify_group.                                                                            
+Mon Jul 18 05:09:05 2022 - INFO  - start to run testcase:oe_test_localectl.                                                                                   
+Mon Jul 18 05:09:05 2022 - ERROR - The case exit by code 3.               
+Mon Jul 18 05:09:05 2022 - INFO  - End to run testcase:oe_test_localectl.                                                                                     
+Mon Jul 18 05:09:05 2022 - INFO  - start to run testcase:oe_test_ethtool.                                                                                     
+Mon Jul 18 05:09:06 2022 - ERROR - The case exit by code 1.                
+Mon Jul 18 05:09:06 2022 - INFO  - End to run testcase:oe_test_ethtool.                                                                                       
+Mon Jul 18 05:09:06 2022 - INFO  - start to run testcase:oe_test_net_cmd_ping.
+Mon Jul 18 05:09:08 2022 - INFO  - The case exit by code 0.                                                                                                   
+Mon Jul 18 05:09:08 2022 - INFO  - End to run testcase:oe_test_net_cmd_ping.   
+Mon Jul 18 05:09:08 2022 - INFO  - start to run testcase:oe_test_home_directory.                                                                              
+Mon Jul 18 05:09:09 2022 - ERROR - The case exit by code 1.
+Mon Jul 18 05:09:09 2022 - INFO  - End to run testcase:oe_test_home_directory.                                                                                
+Mon Jul 18 05:09:09 2022 - INFO  - start to run testcase:oe_test_kernel_module_operation.                                                                     
+Mon Jul 18 05:09:09 2022 - INFO  - The case exit by code 0.
+Mon Jul 18 05:09:09 2022 - INFO  - End to run testcase:oe_test_kernel_module_operation.                                                                       
+Mon Jul 18 05:09:09 2022 - INFO  - start to run testcase:oe_test_cmd_su_user.                                                                                 
+Mon Jul 18 05:09:10 2022 - ERROR - The case exit by code 1.
+Mon Jul 18 05:09:10 2022 - INFO  - End to run testcase:oe_test_cmd_su_user.                                                                                   
+Mon Jul 18 05:09:10 2022 - INFO  - start to run testcase:oe_test_chrony_Manuall.                                                                              
+Mon Jul 18 05:09:11 2022 - ERROR - The case exit by code 2.
+Mon Jul 18 05:09:11 2022 - INFO  - End to run testcase:oe_test_chrony_Manuall.                                                                                
+Mon Jul 18 05:09:11 2022 - INFO  - start to run testcase:oe_test_basic_create_group.                                                                          
+Mon Jul 18 05:09:11 2022 - ERROR - The case exit by code 1.
+Mon Jul 18 05:09:11 2022 - INFO  - start to run testcase:oe_test_basic_create_group.                                                                  [54/427]
+Mon Jul 18 05:09:11 2022 - ERROR - The case exit by code 1.                   
+Mon Jul 18 05:09:11 2022 - INFO  - End to run testcase:oe_test_basic_create_group.                                                                            
+Mon Jul 18 05:09:11 2022 - INFO  - start to run testcase:oe_test_kernel_cgroup.                                                                               
+Mon Jul 18 05:09:12 2022 - ERROR - The case exit by code 3.                                                                                                   
+Mon Jul 18 05:09:12 2022 - INFO  - End to run testcase:oe_test_kernel_cgroup.                                                                                 
+Mon Jul 18 05:09:12 2022 - INFO  - start to run testcase:oe_test_kernel_sysctl.                                                                               
+Mon Jul 18 05:09:12 2022 - INFO  - The case exit by code 0.               
+Mon Jul 18 05:09:12 2022 - INFO  - End to run testcase:oe_test_kernel_sysctl.                                                                                 
+Mon Jul 18 05:09:12 2022 - INFO  - start to run testcase:oe_test_net_conninfo_lsof.                                                                           
+Mon Jul 18 05:09:24 2022 - ERROR - The case exit by code 1.                
+Mon Jul 18 05:09:24 2022 - INFO  - End to run testcase:oe_test_net_conninfo_lsof.                                                                             
+Mon Jul 18 05:09:24 2022 - INFO  - start to run testcase:oe_test_date.        
+Mon Jul 18 05:09:26 2022 - ERROR - The case exit by code 2.                                                                                                   
+Mon Jul 18 05:09:26 2022 - INFO  - End to run testcase:oe_test_date.           
+Mon Jul 18 05:09:26 2022 - INFO  - start to run testcase:oe_test_net_cmd_scp.                                                                                 
+Mon Jul 18 05:09:27 2022 - ERROR - The case exit by code 4.
+Mon Jul 18 05:09:27 2022 - INFO  - End to run testcase:oe_test_net_cmd_scp.                                                                                   
+Mon Jul 18 05:09:27 2022 - INFO  - start to run testcase:oe_test_net_ncat.                                                                                    
+Mon Jul 18 05:09:28 2022 - ERROR - The case exit by code 2.
+Mon Jul 18 05:09:28 2022 - INFO  - End to run testcase:oe_test_net_ncat.                                                                                      
+Mon Jul 18 05:09:28 2022 - INFO  - start to run testcase:oe_test_kernel_kdump.                                                                                
+Mon Jul 18 05:09:28 2022 - ERROR - The case exit by code 4.
+Mon Jul 18 05:09:28 2022 - INFO  - End to run testcase:oe_test_kernel_kdump.                                                                                  
+Mon Jul 18 05:09:28 2022 - INFO  - start to run testcase:oe_test_disk_tuned_modify.                                                                           
+Mon Jul 18 05:09:29 2022 - ERROR - The case exit by code 3.
+Mon Jul 18 05:09:29 2022 - INFO  - End to run testcase:oe_test_disk_tuned_modify.                                                                             
+Mon Jul 18 05:09:29 2022 - INFO  - start to run testcase:oe_test_net_IPVLAN.                                                                                  
+Mon Jul 18 05:09:30 2022 - ERROR - The case exit by code 1.
+Mon Jul 18 05:09:29 2022 - INFO  - start to run testcase:oe_test_net_IPVLAN.                                                                          [27/427]
+Mon Jul 18 05:09:30 2022 - ERROR - The case exit by code 1.                   
+Mon Jul 18 05:09:30 2022 - INFO  - End to run testcase:oe_test_net_IPVLAN.                                                                                    
+Mon Jul 18 05:09:30 2022 - INFO  - start to run testcase:oe_test_chrony_chronyd.                                                                              
+Mon Jul 18 05:09:31 2022 - ERROR - The case exit by code 4.                                                                                                   
+Mon Jul 18 05:09:31 2022 - INFO  - End to run testcase:oe_test_chrony_chronyd.                                                                                
+Mon Jul 18 05:09:31 2022 - INFO  - start to run testcase:oe_test_chrony_chronyc_cmd.                                                                          
+Mon Jul 18 05:09:31 2022 - ERROR - The case exit by code 4.               
+Mon Jul 18 05:09:31 2022 - INFO  - End to run testcase:oe_test_chrony_chronyc_cmd.                                                                            
+Mon Jul 18 05:09:31 2022 - INFO  - start to run testcase:oe_test_net_scriprts.                                                                                
+Mon Jul 18 05:09:32 2022 - ERROR - The case exit by code 2.                
+Mon Jul 18 05:09:32 2022 - INFO  - End to run testcase:oe_test_net_scriprts.                                                                                  
+Mon Jul 18 05:09:32 2022 - INFO  - start to run testcase:oe_test_hostnamectl. 
+Mon Jul 18 05:09:33 2022 - ERROR - The case exit by code 2.                                                                                                   
+Mon Jul 18 05:09:33 2022 - INFO  - End to run testcase:oe_test_hostnamectl.    
+Mon Jul 18 05:09:33 2022 - INFO  - start to run testcase:oe_test_chrony_chronyc_ntpstat.                                                                      
+Mon Jul 18 05:09:44 2022 - ERROR - The case exit by code 3.
+Mon Jul 18 05:09:44 2022 - INFO  - End to run testcase:oe_test_chrony_chronyc_ntpstat.                                                                        
+Mon Jul 18 05:09:44 2022 - INFO  - start to run testcase:oe_test_IOaccess_500Mfile.                                                                           
+Mon Jul 18 05:12:04 2022 - INFO  - The case exit by code 0.
+Mon Jul 18 05:12:04 2022 - INFO  - End to run testcase:oe_test_IOaccess_500Mfile.                                                                             
+Mon Jul 18 05:12:04 2022 - INFO  - start to run testcase:oe_test_cmd_sudo.                                                                                    
+Mon Jul 18 05:12:05 2022 - ERROR - The case exit by code 2.
+Mon Jul 18 05:12:05 2022 - INFO  - End to run testcase:oe_test_cmd_sudo.                                                                                      
+Mon Jul 18 05:12:05 2022 - INFO  - start to run testcase:oe_test_man.                                                                                         
+Mon Jul 18 05:12:06 2022 - INFO  - The case exit by code 0.
+Mon Jul 18 05:12:06 2022 - INFO  - End to run testcase:oe_test_man.                                                                                           
+Mon Jul 18 05:12:06 2022 - INFO  - start to run testcase:oe_test_net_config.                                                                                  
+Mon Jul 18 05:12:16 2022 - ERROR - The case exit by code 2.
+Mon Jul 18 05:12:06 2022 - INFO  - start to run testcase:oe_test_net_config.                                                                           [0/427]
+Mon Jul 18 05:12:16 2022 - ERROR - The case exit by code 2.                   
+Mon Jul 18 05:12:16 2022 - INFO  - End to run testcase:oe_test_net_config.                                                                                    
+Mon Jul 18 05:12:16 2022 - INFO  - start to run testcase:oe_test_net_setmode.                                                                                 
+Mon Jul 18 05:12:16 2022 - ERROR - The case exit by code 1.                                                                                                   
+Mon Jul 18 05:12:16 2022 - INFO  - End to run testcase:oe_test_net_setmode.                                                                                   
+Mon Jul 18 05:12:16 2022 - INFO  - start to run testcase:oe_test_disk_tuned_disable.                                                                          
+Mon Jul 18 05:12:17 2022 - ERROR - The case exit by code 1.               
+Mon Jul 18 05:12:17 2022 - INFO  - End to run testcase:oe_test_disk_tuned_disable.                                                                            
+Mon Jul 18 05:12:17 2022 - INFO  - start to run testcase:oe_test_group_access.                                                                                
+Mon Jul 18 05:12:17 2022 - INFO  - The case exit by code 0.                
+Mon Jul 18 05:12:17 2022 - INFO  - End to run testcase:oe_test_group_access.                                                                                  
+Mon Jul 18 05:12:18 2022 - INFO  - start to run testcase:oe_test_hwclock.     
+Mon Jul 18 05:12:18 2022 - ERROR - The case exit by code 1.                                                                                                   
+Mon Jul 18 05:12:22 2022 - INFO  - End to run testcase:oe_test_hwclock.        
+Mon Jul 18 05:12:22 2022 - INFO  - start to run testcase:oe_test_net_cmd_ifconfig.                                                                            
+Mon Jul 18 05:12:22 2022 - ERROR - The case exit by code 1.
+Mon Jul 18 05:12:22 2022 - INFO  - End to run testcase:oe_test_net_cmd_ifconfig.                                                                              
+Mon Jul 18 05:12:22 2022 - INFO  - start to run testcase:oe_test_IOaccess_1Gfile.                                                                             
+Mon Jul 18 05:17:01 2022 - INFO  - The case exit by code 0.
+Mon Jul 18 05:17:01 2022 - INFO  - End to run testcase:oe_test_IOaccess_1Gfile.                                                                               
+Mon Jul 18 05:17:01 2022 - INFO  - start to run testcase:oe_test_net_VRF.                                                                                     
+Mon Jul 18 05:17:01 2022 - ERROR - The case exit by code 1.
+Mon Jul 18 05:17:01 2022 - INFO  - End to run testcase:oe_test_net_VRF.                                                                                       
+Mon Jul 18 05:17:01 2022 - INFO  - start to run testcase:oe_test_net_cmd_telnet.                                                                              
+Mon Jul 18 05:17:02 2022 - INFO  - The case exit by code 0.
+Mon Jul 18 05:17:02 2022 - INFO  - End to run testcase:oe_test_net_cmd_telnet.                                                                                
+Mon Jul 18 05:17:02 2022 - INFO  - A total of 40 use cases were executed, with 9 successes and 31 failures.    
